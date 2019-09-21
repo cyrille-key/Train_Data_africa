@@ -1,0 +1,2 @@
+# Train_Data_africa
+Ce travail se repose sur une étude statistique du continent Africain. la tache principale est de récupérer les données sur Wikipédia pour chaque région d’Afrique notamment l’Afrique de l’Est, de l’Ouest, du Nord, Centrale et Australe. Traiter et nettoyer chaque ficher et finalement fusionner toutes les Région. Enfin calculer la densité par région, l’Écart Type, la moyenne, et le coefficient de variation.
